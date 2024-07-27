@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "414990451949",
+    "project_id": "auth-b7952",
+    "storage_bucket": "auth-b7952.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414990451949:android:9f9cea59b10367d6f3b8e4",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuAycVY9tO0OZBrbx5FFrmLnFwCxUlrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414990451949:android:a9f790925cd3f4f4f3b8e4",
+        "android_client_info": {
+          "package_name": "com.example.authfirebasee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuAycVY9tO0OZBrbx5FFrmLnFwCxUlrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
